@@ -1,0 +1,4 @@
+Search Query,Document containing term(df),Total Documents(N)/ number of documents term appeared (df),Log10(N/df)
+Canada,27,1578/27,1.7667432347144139
+Halifax,0,1578/0,NA
+Nova Scotia,0,1578/0,NA
